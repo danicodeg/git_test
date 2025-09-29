@@ -5,4 +5,10 @@ print(mensaje)
 
 def mostrar_nombre():
     
-    print("dani")
+    print("dani") 
+    
+def mostrar_apellido():
+
+    print("sanchez")
+
+
